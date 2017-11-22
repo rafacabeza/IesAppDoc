@@ -1,2 +1,8 @@
-This file serves as an introduction to your Knowledge Base, it is displayed on the homepage of your website. Use it to provide more context to your visitors. d
+# IesApp
+
+IesApp es una aplicación desarrollada con el ánimo de facilitar 
+la tarea de docentes, administrativos y equipo directivo del
+IES Santiago Hernández, llegando donde las aplicaciones comerciales
+o de la administración no llegan.
+
 
