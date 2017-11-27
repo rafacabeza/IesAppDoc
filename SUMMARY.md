@@ -19,6 +19,9 @@
 - [¿Donde consultar las fotos de alumnos?](listas02.md)
 
 ## Tutor
+
+<!--
 - ¿Cómo puedo consultar los datos de mis alumnos?
 - ¿Puedo imprimir el F-00049 de mi grupo?
+-->
 - [¿Puedo ver las Incidencias de mis alumnos](incidencias03.md)
