@@ -22,6 +22,6 @@
 
 <!--
 - ¿Cómo puedo consultar los datos de mis alumnos?
-- ¿Puedo imprimir el F-00049 de mi grupo?
 -->
+- [¿Puedo imprimir el F-00049 de mi grupo?](f49.md)
 - [¿Puedo ver las Incidencias de mis alumnos](incidencias03.md)
