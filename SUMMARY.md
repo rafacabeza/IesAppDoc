@@ -5,10 +5,19 @@
 
 * [Introduction](README.md)
 -->
-## Profesor
-* [¿Qué puedo hacer en IesApp? ](profesor.md)
+## IesApp
+* [¿Qué puedo hacer en IesApp? ](iesapp.md)
 
 ### Incidencias
-* [Incidencias](incidencias.md)
-* [¿Qué hacer con las incidencias?](incidencias2.md)
-* [Incidencias de mis alumnos](tutor/incidencias-de-mis-alumnos.md)
+* [Incidencias](incidencias01.md)
+* [¿Qué hacer con las incidencias?](incidencias02.md)
+
+## Listas y fotos
+
+- [¿Donde consultar las listas de alumnos?](listas01.md)
+- [¿Donde consultar las fotos de alumnos?](listas02.md)
+
+## Tutor
+- ¿Cómo puedo consultar los datos de mis alumnos?
+- ¿Puedo imprimir el F-00049 de mi grupo?
+- [¿Puedo ver las Incidencias de mis alumnos](incidencias03.md)
