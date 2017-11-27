@@ -9,12 +9,10 @@
 * [¿Qué puedo hacer en IesApp? ](iesapp.md)
 
 ### Incidencias
-* [Incidencias](incidencias01.md)
-* [Consultar las amonestaciones que he puesto](incidencias01.html#lista)
-* [¿Cómo creo una nueva incidencia?](incidencias01.html#nueva)
+* [¿Cómo se registran amonestaciones?](incidencias01.md)
 * [¿Qué hacer tras registrar una incidencia?](incidencias02.md)
 
-## Listas y fotos
+## Grupos: Listas, fotos y más
 
 - [¿Donde consultar las listas de alumnos?](listas01.md)
 - [¿Donde consultar las fotos de alumnos?](listas02.md)

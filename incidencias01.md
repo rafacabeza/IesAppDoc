@@ -1,7 +1,7 @@
 # Incidencias
 
 ## Ver Incidencias
-<a name="lista"></a>
+
 - Un usuario profesor ve la lista de todas las incidencias que ha puesto en el curso actual
 
 - Desplegando en la lista de grupos puede ver las de un sólo grupo
@@ -12,7 +12,6 @@
 
 
 ## Nueva incidencia
-<a name="nueva"></a>
 
 * Desde la pantalla de incidencias pulsamos el botón _Nueva_ 
 * Nos aparecerá la siguiente pantalla:
@@ -29,7 +28,7 @@
 
 ## Acciones sobre incidencias
 
-* En la lista de incidencias aparecen tes iconos:
+En la lista de incidencias aparecen tes iconos:
 * La impresora nos permite descargar o imprimir el documento pdf de la incidencia.
 * La cruz roja nos permite eliminar la incidencia.
 * La lupa nos permite ver el detalle de la incidencia y editarla.
