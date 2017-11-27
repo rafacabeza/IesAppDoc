@@ -10,7 +10,8 @@
 
 ### Incidencias
 * [Incidencias](incidencias01.md)
-* [¿Qué hacer con las incidencias?](incidencias02.md)
+* [Consultar las amonestaciones que he puesto](incidencias01.md#lista)
+* [¿Qué hacer tras registrar una incidencia?](incidencias02.md)
 
 ## Listas y fotos
 

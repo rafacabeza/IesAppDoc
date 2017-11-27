@@ -1,7 +1,7 @@
 # Incidencias
 
 ## Ver Incidencias
-
+<a name="lista"></a>
 - Un usuario profesor ve la lista de todas las incidencias que ha puesto en el curso actual
 
 - Desplegando en la lista de grupos puede ver las de un sólo grupo
