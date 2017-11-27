@@ -7,8 +7,7 @@
 -->
 ## Profesor
 
+### Incidencias
 * [Incidencias](incidencias.md)
-
-## Tutor
-
+* [¿Qué hacer con las incidencias?](incidencias2.md)
 * [Incidencias de mis alumnos](tutor/incidencias-de-mis-alumnos.md)
