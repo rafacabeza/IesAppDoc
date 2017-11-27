@@ -12,6 +12,7 @@
 
 
 ## Nueva incidencia
+<a name="nueva"></a>
 
 * Desde la pantalla de incidencias pulsamos el botón _Nueva_ 
 * Nos aparecerá la siguiente pantalla:

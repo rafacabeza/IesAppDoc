@@ -11,6 +11,7 @@
 ### Incidencias
 * [Incidencias](incidencias01.md)
 * [Consultar las amonestaciones que he puesto](incidencias01.html#lista)
+* [¿Cómo creo una nueva incidencia?](incidencias01.html#nueva)
 * [¿Qué hacer tras registrar una incidencia?](incidencias02.md)
 
 ## Listas y fotos
