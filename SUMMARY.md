@@ -26,3 +26,7 @@
 -->
 - [¿Puedo imprimir el F-00049 de mi grupo?](f49.md)
 - [¿Puedo ver las Incidencias de mis alumnos](incidencias03.md)
+
+## Datos personales y del  claustro
+
+- [¿Puedo ver y cambiar mis datos personales?](profe01.md)
