@@ -30,3 +30,5 @@
 ## Datos personales y del  claustro
 
 - [¿Puedo ver y cambiar mis datos personales?](profe01.md)
+- [¿Puedo ver la composición del claustro?](profe02.md)
+- [¿Cómo puedo contactar con un compañero?](profe03.md)

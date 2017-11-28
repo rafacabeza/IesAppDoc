@@ -1,4 +1,4 @@
-# Perfil de Profesor
+# ¿Puedo ver y cambiar mis datos personales?
 
 - Donde. En el menú duperior derecho, aparece un enlace al perfil personal
 - En ella aparece la información que se considera básica para el funcionamiento de la aplicación.
