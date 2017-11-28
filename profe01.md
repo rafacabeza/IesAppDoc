@@ -9,6 +9,7 @@
 - Los números telefónicos se harán públicos al resto del claustro según los elijamos en la propia pantalla.
 - Información sólo accesible para la dirección y administración del centro:
 	- DNI
+	- Usuario de SIGAD
 
 
 ![](img/perfil.png)
