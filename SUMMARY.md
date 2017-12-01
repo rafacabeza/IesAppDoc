@@ -31,10 +31,9 @@
 
 - [¿Puedo ver y cambiar mis datos personales?](profe01.md)
 - [¿Puedo ver la composición del claustro?](profe02.md)
-    - [¿Cómo puedo contactar con un compañero?](profe03.md)
+- [¿Cómo puedo contactar con un compañero?](profe03.md)
 
 ## Extra
 
 - [¿Dónde puedo descargar documentación del IES?](extra01.md)
-- [¿Qué información extra encontraré en IesApp?(extra02.md)
-]
+- [¿Qué información extra encontraré en IesApp?](extra02.md)
