@@ -1,4 +1,4 @@
-# ¿Qué puedo hacer en IesApp?
+# ¿Qué puedo ver y hacer en IesApp?
 
 ## Incidencias
 * Amonestar a cualquier alumno del centro
@@ -17,3 +17,6 @@
 * Ver las amonestaciones de los alumnos de mi grupo
 * Imprimir el formato F-00049  de mis alumnos.
 * Verificar en pantalla y en el formato que los datos de SIGAD están actualizados y no hay discrepancias (significativas) con IesApp.
+
+## Consultar
+* Enlace a Dropbox (Profe-Comun)
