@@ -6,7 +6,7 @@
 * [Introduction](README.md)
 -->
 ## IesApp
-* [¿Qué puedo hacer en IesApp? ](iesapp.md)
+* [Introducción: ¿Qué puedo ver y hacer en IesApp? ](iesapp.md)
 
 ### Incidencias
 * [¿Cómo se registran amonestaciones?](incidencias01.md)
