@@ -20,6 +20,5 @@
 
 ## Consultar en la página inicial
 * Enlace a Dropbox (Profe-Comun)
-ul
 * El parte de guardias de hoy
 * La lista de alumnos expulsados
