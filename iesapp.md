@@ -18,5 +18,8 @@
 * Imprimir el formato F-00049  de mis alumnos.
 * Verificar en pantalla y en el formato que los datos de SIGAD están actualizados y no hay discrepancias (significativas) con IesApp.
 
-## Consultar
+## Consultar en la página inicial
 * Enlace a Dropbox (Profe-Comun)
+ul
+* El parte de guardias de hoy
+* La lista de alumnos expulsados
